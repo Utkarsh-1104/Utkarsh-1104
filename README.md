@@ -6,7 +6,7 @@
 
 
 
-![github](https://github.com/Utkarsh-1104/Utkarsh-1104/assets/90772125/12321613-9566-43b8-9fdd-df18fbfec60f | width = 100)
+![github](https://github.com/Utkarsh-1104/Utkarsh-1104/assets/90772125/12321613-9566-43b8-9fdd-df18fbfec60f)
 
 
 
