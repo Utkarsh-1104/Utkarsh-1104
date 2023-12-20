@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django and Flask<br>🎯 Goals : To be a good Engineer and Visionary.<br>🎲 Fun fact : My humour is so advanced one might think Im stupid.</h3>
+<h3 align="left">✨ Creating bugs since 2020.<br>🎯 Goals : To be a good Engineer and Visionary.<br>🎲 Fun fact : My humour is so advanced one might think Im stupid.</h3>
 
 ###
 
