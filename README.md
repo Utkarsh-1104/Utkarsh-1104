@@ -82,11 +82,11 @@
 <h2 align="left">My Stats</h2>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=utkarsh-1104&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-1104&theme=gruvbox" alt="utkarsh-1104" /></a> </p>
-<div display="flex">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1104&show_icons=true&locale=en&layout=compact" alt="utkarsh-1104" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1104&show_icons=true&locale=en" alt="utkarsh-1104" /></p>
-</div>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Utkarsh-1104&theme=nightfox&border_radius=4.7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+![](https://komarev.com/ghpvc/?username=Utkarsh-1104&color=red&style=plastic)
